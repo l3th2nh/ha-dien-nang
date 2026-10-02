@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Điện năng",
+        "description": "Cài tích hợp Điện năng. Sau khi cài, mở panel \"Điện năng\" ở thanh bên để chọn các đồng hồ và cấu hình báo cáo."
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Đã cấu hình rồi."
+    }
+  }
+}

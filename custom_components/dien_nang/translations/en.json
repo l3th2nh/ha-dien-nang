@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Energy report",
+        "description": "Install the Energy integration. After install, open the \"Điện năng\" panel in the sidebar to pick your meters and configure reports."
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Already configured."
+    }
+  }
+}

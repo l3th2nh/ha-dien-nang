@@ -1,0 +1,11 @@
+{
+  "domain": "dien_nang",
+  "name": "Điện năng",
+  "version": "0.1.0",
+  "documentation": "https://github.com/l3th2nh/ha-dien-nang",
+  "issue_tracker": "https://github.com/l3th2nh/ha-dien-nang/issues",
+  "dependencies": ["http", "websocket_api", "frontend", "panel_custom", "recorder"],
+  "codeowners": ["@l3th2nh"],
+  "iot_class": "calculated",
+  "config_flow": true
+}
